@@ -1,1 +1,3 @@
 # Tsql-Fundamentals
+
+Sharing my solution for this amazing book with everyone....
